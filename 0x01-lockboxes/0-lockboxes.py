@@ -29,3 +29,4 @@ def canUnlockAll(boxes):
     
     # Check if all boxes have been visited
     return all(visited)
+    
